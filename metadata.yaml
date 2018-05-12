@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40503
     wikipedia: http://en.wikipedia.org/wiki/Denison_Olmsted
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40240#Letters-on-AstronomyMost-Eminent-Astronomers
 gutenberg_issued: '2012-07-15'
 gutenberg_type: Text
 identifiers:
