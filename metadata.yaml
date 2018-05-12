@@ -1,0 +1,40 @@
+_repo: Letters-on-AstronomyMost-Eminent-Astronomers_40240
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Olmsted, Denison
+    alias: Olmstead, Denison
+    birthdate: 1791
+    deathdate: 1859
+    gutenberg_agent_id: '40503'
+    url: http://www.gutenberg.org/2009/agents/40503
+    wikipedia: http://en.wikipedia.org/wiki/Denison_Olmsted
+description: ''
+gutenberg_issued: '2012-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy'
+tableOfContents: 'Preface -- Introductory observations -- Doctrine of the sphere --
+  Astronomical instruments; telescope -- Observatories -- Time and the calendar --
+  Figure of the earth -- Diurnal revolution -- Parallax and refraction -- The sun
+  -- Annual revolution; seasons -- Laws of motion -- Terrestrial gravity -- Sir Isaac
+  Newton; unversal gravitation; figure of the earth''s orbit; precession of the equinoxes
+  -- The moon -- The moon; phases; harvest moon; librations -- Moon''s orbit; her
+  irregularities -- Eclipses -- Longitude; tides -- Planets; Mercury and Venus --
+  Superior planets: Mars, Jupiter, Saturn, and Uranus -- Copernicus; Galileo -- Saturn;
+  Uranus; asteroids -- The planetary motions; Kepler''s laws; Kepler -- Comets --
+  Meteoric showers -- Fixed stars -- System of the world -- Natural theology -- Recent
+  discoveries.'
+title: "Letters on Astronomy\r\nin which the Elements of the Science are Familiarly\
+  \ Explained in Connection with Biographical Sketches of the Most Eminent Astronomers"
+url: http://www.gutenberg.org/ebooks/40240
