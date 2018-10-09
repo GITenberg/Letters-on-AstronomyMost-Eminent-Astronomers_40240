@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QB'
 - !lcsh 'Astronomy'
+- GITenberg
 tableOfContents: 'Preface -- Introductory observations -- Doctrine of the sphere --
   Astronomical instruments; telescope -- Observatories -- Time and the calendar --
   Figure of the earth -- Diurnal revolution -- Parallax and refraction -- The sun
